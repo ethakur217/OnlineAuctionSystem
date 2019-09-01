@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type = "text/xsl" href = "style.xsl"?>
+<catalog>
+	<cd>
+		<artist>Vivek1</artist>
+		<title>Name1</title>
+
+		
+	</cd>
+		<cd>
+		<artist>Vivek2</artist>
+		<title>Name2</title>
+		
+		
+	</cd>
+</catalog>
